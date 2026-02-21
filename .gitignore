@@ -26,3 +26,5 @@ voc_representations.h5
 VOCdevkit/
 VOCtrainval_06-Nov-2007.tar.gz
 node_modules/
+02_activities/assignments/data
+01_materials/labs/images_pascalVOC.zip
